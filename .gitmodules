@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RCEIM"]
 	path = RCEIM
 	url = https://github.com/cran/RCEIM
-	shallow = true
-	registered = true
 [submodule "RsimMosaic"]
 	path = RsimMosaic
 	url = https://github.com/cran/RsimMosaic
-	shallow = true
-	registered = true
 [submodule "SPADAR"]
 	path = SPADAR
 	url = https://github.com/cran/SPADAR
-	shallow = true
-	registered = true
 [submodule "UPMASK"]
 	path = UPMASK
 	url = https://github.com/cran/UPMASK
-	shallow = true
-	registered = true
