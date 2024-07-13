@@ -11,6 +11,3 @@
 [submodule "SPADAR"]
 	path = SPADAR
 	url = https://github.com/cran/SPADAR
-[submodule "UPMASK"]
-	path = UPMASK
-	url = https://github.com/cran/UPMASK
