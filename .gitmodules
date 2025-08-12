@@ -5,9 +5,6 @@
 [submodule "RCEIM"]
 	path = RCEIM
 	url = https://github.com/cran/RCEIM
-[submodule "RsimMosaic"]
-	path = RsimMosaic
-	url = https://github.com/cran/RsimMosaic
 [submodule "SPADAR"]
 	path = SPADAR
 	url = https://github.com/cran/SPADAR
